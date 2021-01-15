@@ -1,0 +1,22 @@
+{
+  "name": "issspotter",
+  "version": "1.0.0",
+  "description": "code that plots when the iss will pass overhead your coordinates and when it will be visible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoeyF75/iss_spotter.git"
+  },
+  "author": "Zoey Farago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoeyF75/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/ZoeyF75/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
